@@ -1,7 +1,7 @@
 import { componentFactoryName } from '@angular/compiler';
 
 
-import {Component } from '@angular/core';
+import {Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-property-card',
@@ -12,10 +12,11 @@ import {Component } from '@angular/core';
 
 export class PropertyCardComponent
 {
-    Property : any = {
-      "Id" : 1,
-      "Name": "Eldhose House",
-      "Type" : "House",
-      "Price " : 12000
-    }
+  @Input()  property : any
+    //Property : any = {
+      //"Id" : 1,
+      //"Name": "Eldhose House",
+      //"Type" : "House",
+      //"Price " : 12000
+   // }
 }
