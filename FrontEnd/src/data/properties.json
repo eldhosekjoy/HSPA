@@ -1,0 +1,49 @@
+[{
+  "Id" : 1,
+  "Name": "Eldhose House",
+  "SellRent" : 1,
+  "Type" : "House",
+  "Price" : 12000,
+  "Image" : "house_1"
+},
+{
+  "Id" : 2,
+  "Name": "Shilpa House",
+  "SellRent" : 2,
+  "Type" : "House",
+  "Price" : 12000,
+  "Image" : "house_2"
+},
+{
+  "Id" : 3,
+  "Name": "David House",
+  "SellRent" : 1,
+  "Type" : "House",
+  "Price" : 12000,
+  "Image" : "house_3"
+},
+{
+  "Id" : 4,
+  "Name": "Eshaan House",
+  "SellRent" : 1,
+  "Type" : "House",
+  "Price" : 12000,
+  "Image" : "house_4"
+},
+{
+  "Id" : 5,
+  "Name": "Eshaan House",
+  "SellRent" : 2,
+  "Type" : "House",
+  "Price" : 12000,
+  "Image" : "house_5"
+},
+{
+  "Id" : 6,
+  "Name": "Eshaan House",
+  "SellRent" : 1,
+  "Type" : "House",
+  "Price" : 12000
+
+}
+]
